@@ -1,0 +1,24 @@
+.footer{
+    /* border: 2px solid yellow; */
+ width: 100%;
+display: block;
+justify-content: space-around;
+ background-color:#081528;
+ color: white;
+}
+.innerdiv{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+}
+.footer h1{
+    color: white;
+}
+img{
+    
+    width:20px;
+}

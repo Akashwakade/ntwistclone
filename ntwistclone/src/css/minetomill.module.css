@@ -1,0 +1,26 @@
+
+.leftdiv{
+  /* border: 2px solid red; */
+  width: 50%;
+  
+  
+}
+h1{
+  font-weight:600;
+  color: #ff3a2d;
+}
+p{
+  font-weight: 600;
+}
+button{
+  margin-top: 25px;
+  background-color: #ff3a2d;
+  border: none;
+}
+img{
+  width: 100%;
+}
+/* .rightdiv{
+  width: 50%;
+  margin-left: 50px;
+} */
